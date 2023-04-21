@@ -37,7 +37,7 @@
 <hr></hr>
 
 -  &nbsp;Find my socials **[here.](https://jinx.wtf/)**
-- &nbsp;Invite my verified discord bot, serving over 300k users **[here.](http://heal.rip/invite/)**<br>
+- &nbsp;Invite my verified discord bot, serving over 300k users **[here.](http://heal.rip/invite)**<br>
 
 
 <p align="center">  
