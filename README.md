@@ -34,5 +34,5 @@
 
 
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-3/959535881318973496.png">
+<img src="https://discord.c99.nl/widget/theme-1/959535881318973496.png">
 </p>
