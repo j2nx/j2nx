@@ -1,15 +1,8 @@
 <h3 align="center">
-        <samp> Hi, I'm
-                <b><a target="_blank" href="http://jinx.wtf/">jinx.</a></b>
-        </samp>
 </h3>
 <br>
 <p align="center">
         <samp>
-                <br>
-                「 I like discord bot coding. 」
-                <br>
-                <br>
         </samp>
         </a>
         <a href="https://jinx.wtf/" target="_blank"><img alt="Python"
@@ -37,7 +30,7 @@
 <hr></hr>
 
 -  &nbsp;Find my socials **[here.](https://jinx.wtf/)**
-- &nbsp;Invite my verified discord bot, serving over 300k users **[here.](http://heal.rip/invite)**<br>
+- &nbsp;Invite my verified discord bot, serving over 350k users **[here.](http://heal.rip/invite)**<br>
 
 
 <p align="center">  
