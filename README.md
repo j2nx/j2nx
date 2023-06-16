@@ -5,15 +5,15 @@
         <samp>
         </samp>
         </a>
-        <a href="https://jinx.wtf/" target="_blank"><img alt="Python"
+        <a href="https://heal.rip" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        <a href="https://jinx.wtf/" target="_blank"><img alt="HTML"
+        <a href="https://heal.rip" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
-        <a href="https://jinx.wtf/" target="_blank"><img alt="CSS"
+        <a href="https://heal.rip/" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
-        <a href="https://jinx.wtf/" target="_blank"><img alt="JavaScript"
+        <a href="https://heal.rip/" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 
 
@@ -29,7 +29,7 @@
 
 <hr></hr>
 
--  &nbsp;Find my socials **[here.](https://jinx.wtf/)**
+-  &nbsp;Find my socials **[here.](https://ihy.lol/)**
 - &nbsp;Invite my verified discord bot, serving over two million users **[here.](http://heal.rip/invite)**<br>
 
 
