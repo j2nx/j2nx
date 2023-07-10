@@ -28,9 +28,7 @@
 </div>
 
 <hr></hr>
-
--  &nbsp;Find my socials **[here.](https://ihy.lol/)**
-- &nbsp;Invite my verified discord bot, serving over two million users **[here.](http://heal.rip/invite)**<br>
+- &nbsp;Invite my verified discord bot, serving over three million users across over eight thousand guilds  **[here.](http://heal.rip/invite)**<br>
 
 
 <p align="center">  
